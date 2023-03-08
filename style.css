@@ -9,7 +9,7 @@ body{
 div{
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   gap: 5px;
   width: 93%;
   min-height: 100vh;
@@ -60,6 +60,6 @@ a{
 footer{
   text-align: center;
   color: #fff;
-  padding-bottom: 5px;
+  margin-bottom: 1%;
   font-size: 0.7em;
 }
