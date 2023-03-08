@@ -5,16 +5,17 @@
 }
 body{
   background-color: #000;
+  min-height: 100%;
 }
 div{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  gap: 5px;
+  gap: 5%;
   width: 93%;
-  min-height: 100vh;
+  min-height: 95vh;
   background: linear-gradient(to bottom, #741397,#9D25C4,#9120B7,#A92BD1);
-  margin: 15px auto;
+  margin: 4% auto;
   border-radius: 10px;
 }
 img#foto{
@@ -36,10 +37,10 @@ main{
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
-  gap: 2%;
+  gap: 5%;
   padding-bottom: 0.5%;
   width: 100%;
-  flex: 1 1 100%; 
+  flex: 1 0 300px; 
 }
 section{
   background-color: #fff;
