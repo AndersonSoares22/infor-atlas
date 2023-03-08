@@ -57,3 +57,9 @@ a{
   color: #741397;
   text-decoration: none;
 }
+footer{
+  text-align: center;
+  color: #fff;
+  padding-bottom: 5px;
+  font-size: 0.7em;
+}
