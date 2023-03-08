@@ -39,6 +39,7 @@ main{
   gap: 10px;
   padding-bottom: 10px;
   width: 100%;
+  flex: 1 1 100%; 
 }
 section{
   background-color: #fff;
